@@ -152,7 +152,7 @@ sensor:
     gas_delivered_be:
       name: "Gas Consumed Belgium"
     active_energy_import_current_average_demand:
-      name: "Current Quarter-Hour Average Demand"
+      name: "Current Quarter/Hour Average Demand"
       accuracy_decimals: 3
     active_energy_import_maximum_demand_running_month:
       name: "Maximum Demand Current Month"
